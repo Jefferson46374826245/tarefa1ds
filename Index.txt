@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+ <title>Site de peças </title>
+ <meta charset="utf-8" />
+</head>
+<body>
+ <header>
+ <h1>Peças & mais</h1>
+ <h3>Confira nosso site, produtos e promoções</h3>
+ </header>
+ <nav>
+ <ul>
+ <li><a href="Index.html">Página Inicial</a></li>
+ <li><a href="Pagina de detalhes.html">Página de detalhes</a></li>
+ </ul>
+ </nav>
+ <main>
+ <section>
+ <h1>Produtos</h1>
+ <article>
+ <p>Variedades em peças automotivas, preços exclusivos
+para clientes cadastrados e revenda.
+Marcas de qualidade e garantia</p>
+<img src="produtos.png" width="30%"
+ </article>
+ </section>
+ </main>
+ <footer>
+ Desenvolvido por Loja Peças & mais
+<li><a href="Sobreoautor.html">Sobre o autor</a></li>
+ </footer>
+</body>
+</html>

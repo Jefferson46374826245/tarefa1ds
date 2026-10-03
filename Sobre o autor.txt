@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+ <title>Site de peças </title>
+ <meta charset="utf-8" />
+</head>
+<body>
+ <header>
+ <h1>Peças & mais</h1>
+ <h3>Confira nosso site, produtos e promoções</h3>
+ </header>
+ <nav>
+ <ul>
+ <li><a href="Index.html">Página Inicial</a></li>
+ <li><a href="Pagina de detalhes.html">Página de detalhes</a></li>
+ </ul>
+ </nav>
+ <main>
+ <section>
+ <h1>SOBRE NOSSA LOJA</h1>
+ <article>
+ <p>Há mais de 20 anos no mercado a loja Peças & mais oferece o que
+há de melhor no mercado de autopeças, mantendo compromisso com peças
+de carros ja descontinuados e peças para carros novos, pois sabemos
+que esse mercado evolui de anos em anos e nossa empresa trabalha nisso
+matendo a qualidade e diversificações para todos nossos clientes. </p>
+<img src="produtos.png" width="30%"
+ </article>
+ </section>
+ </main>
+ <footer>
+ Desenvolvido por Loja Peças & mais
+<li><a href="Sobreoautor.html">Sobre o autor</a></li>
+ </footer>
+</body>
+</html>
