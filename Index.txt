@@ -13,6 +13,7 @@
  <ul>
  <li><a href="Index.html">Página Inicial</a></li>
  <li><a href="Pagina de detalhes.html">Página de detalhes</a></li>
+ <li><a href="Admin.html">Admin</a></li>
  </ul>
  </nav>
  <main>
